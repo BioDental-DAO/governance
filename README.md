@@ -2,7 +2,7 @@
 ### *Restoring the Roots of Health through Natural Philosophy & Decentralization*
 
 [![Welcome](https://img.shields.io/badge/Status-Open_for_Contribution-green.svg)](https://github.com/BioDental-DAO/governance/issues)
-[![Discord](https://img.shields.io/discord/NTjQDSBm5y?label=Join%20Discord&logo=discord&style=flat-square)](YOUR_DISCORD_INVITE_LINK)
+[![Discord](https://img.shields.io/discord/1348844211952156702?label=Join%20Discord&logo=discord&style=flat-square)](YOUR_DISCORD_INVITE_LINK)
 [![DeSci](https://img.shields.io/badge/Sector-DeSci-purple.svg)](https://ethereum.org/en/desci/)
 
 ---
